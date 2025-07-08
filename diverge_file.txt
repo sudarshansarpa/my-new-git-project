@@ -1,1 +1,2 @@
 Diverge feature line 1
+Diverge feature line 2
